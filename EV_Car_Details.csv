@@ -1,0 +1,26 @@
+Brand,Model,AccelSec,TopSpeed_KmH,Range_Km,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,BodyStyle
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Sedan
+Volkswagen ,ID.3 Pure,10,160,270,167,250,Yes,RWD,Hatchback
+Polestar ,2,4.7,210,400,181,620,Yes,AWD,Liftback
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,SUV
+Honda ,e ,9.5,145,170,168,190,Yes,RWD,Hatchback
+Lucid ,Air ,2.8,250,610,180,620,Yes,AWD,Sedan
+Volkswagen ,e-Golf ,9.6,150,190,168,220,Yes,FWD,Hatchback
+Peugeot ,e-208 ,8.1,150,275,164,420,Yes,FWD,Hatchback
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Sedan
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,SUV
+Mercedes ,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,SUV
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Hatchback
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,SUV
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Sedan
+Hyundai ,IONIQ Electric,9.7,165,250,153,210,Yes,FWD,Liftback
+BMW ,i3 120 Ah,7.3,150,235,161,270,Yes,RWD,Hatchback
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Sedan
+MG ,ZS EV,8.2,140,220,193,260,Yes,FWD,SUV
+Mini ,Cooper SE ,7.3,150,185,156,260,Yes,FWD,Hatchback
+Opel ,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Hatchback
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,SUV
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,SUV
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Sedan
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Sedan
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,SUV
